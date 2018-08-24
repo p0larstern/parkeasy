@@ -9,11 +9,12 @@ I welcome all the contributers who want to help me improve the project in any as
 I would appreciate any advice and contribution.
 
 ## How to setup the app
+1. Download or Clone the repository
 1. Open cmd in the repository folder
-2. Install [py2exe](https://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/) on your machine
-3. Run the following command in cmd after installing py2exe
+1. Install [py2exe](https://sourceforge.net/projects/py2exe/files/py2exe/0.6.9/) on your machine
+1. Run the following command in cmd after installing py2exe
 ```
 python setup.py py2exe
 ```
-4. Copy **logo.txt** to the newly created **bin** folder
-5. Run **parkeasy.exe**
+1. Copy **logo.txt** to the newly created **bin** folder
+1. Run **parkeasy.exe**
